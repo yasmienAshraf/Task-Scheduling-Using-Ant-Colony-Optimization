@@ -1,4 +1,5 @@
-Task Scheduling Using Ant Colony Optimization (ACO)
-Task scheduling is a fundamental problem in cloud computing, where multiple tasks need to be allocated efficiently to virtual machines (VMs) to minimize execution time and balance workloads. The Ant Colony Optimization (ACO) algorithm has been widely used to solve scheduling problems due to it’s ability to find near-optimal solutions iteratively through pheromone-based learning.
+
+Task scheduling is a fundamental problem in cloud computing, where multiple tasks need to be allocated efficiently to virtual machines (VMs) to minimize execution time and balance workloads.
+The Ant Colony Optimization (ACO) algorithm has been widely used to solve scheduling problems due to it’s ability to find near-optimal solutions iteratively through pheromone-based learning.
 
 In this study, we implement and analyze the ACO algorithm for task scheduling, aiming to minimize Makespan (total execution time) and balance workload distribution among VMs. We compare different heuristic strategies to evaluate their effectiveness in improving scheduling efficiency. Additionally, we analyze the algorithm’s performance using different task sizes and iterations to determine its scalability and robustness. This report presents the methodology used for task scheduling, experimental results, and a comparative analysis of different heuristic approaches. The findings provide insights into how ACO is efficient in cloud scheduling environments.
